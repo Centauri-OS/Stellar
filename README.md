@@ -1,5 +1,5 @@
 # Introducing
-Estellar is a search engine developed to assist in the search and organization of information. With a simple and intuitive interface, Estellar allows users to perform precise searches and find relevant results in different areas of knowledge.
+Stellar is a search engine developed to assist in the search and organization of information. With a simple and intuitive interface, Estellar allows users to perform precise searches and find relevant results in different areas of knowledge.
 
 Through advanced algorithms for search and data analysis, Estellar is capable of offering personalized results for each user, taking into account their preferences and search history.
 
