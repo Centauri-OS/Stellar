@@ -1,0 +1,64 @@
+.container {
+  margin-top: 5vh;
+  min-height: 90vh;
+  width: 100%;
+  display: flex;
+}
+.sidenav {
+  min-height: 200px;
+  padding: 10px 10px 0px 0px;
+  margin-right: 15px;
+  display: flex;
+  align-items: flex-end;
+  flex-direction: column;
+  border-right: 1px solid var(--hoverr);
+}
+.btn {
+  margin-top: 10px;
+  background-color: transparent;
+  color: var(--txtblack);
+  border: none;
+  font-family: "Poppins", sans-serif;
+  cursor: pointer;
+  font-size: 1.1rem;
+  transition: color 0.3s ease-in-out;
+}
+.btn:hover {
+  color: var(--active);
+}
+.btn:active {
+  color: var(--active);
+}
+.result {
+  width: 100%;
+  min-height: 90vh;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.loader {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 1;
+}
+
+@media (max-width: 950px) {
+  .container {
+    display: flex;
+    flex-direction: column;
+  }
+  .sidenav {
+    display: flex;
+    flex-direction: row;
+    margin-left: 5%;
+    min-height: 10px;
+    border-right: none;
+  }
+  .btn {
+    margin-top: 0px;
+    font-size: 0.9rem;
+  }
+}
