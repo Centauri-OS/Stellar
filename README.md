@@ -1,3 +1,5 @@
+![Stellar](https://user-images.githubusercontent.com/129683445/233738698-6cf4c65d-0056-42e7-9639-221cc1bd7e09.png)
+
 # Introducing
 Stellar is a search engine developed to assist in the search and organization of information. With a simple and intuitive interface, Stellar allows users to perform precise searches and find relevant results in different areas of knowledge.
 
