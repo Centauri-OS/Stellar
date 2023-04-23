@@ -14,6 +14,7 @@ Stellar is an open-source project, which means that its source code is freely av
 # Pre-requisites to run locally:
 * npm
 * node
+* Ports 3000 and 5000 free for connection
 # How to run locally?
 **First clone the repository, one way to do this:**
 ```
