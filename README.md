@@ -9,7 +9,7 @@ In addition, Stellar has filtering and sorting features for search results, maki
 
 With Stellar, it is possible to quickly find information from various sources, such as academic articles, news, videos, images, and more. Whether for school, academic, or professional research, Estellar is a powerful and versatile tool to assist in the search and organization of information.
 
-Stellar is an open-source project, which means that its source code is freely available and can be modified and distributed by anyone. This allows for collaboration and community development, making Estellar a continuously evolving search engine.
+Stellar is an open-source project, which means that its source code is freely available and can be modified and distributed by anyone. This allows for collaboration and community development, making Stellar a continuously evolving search engine.
 
 # Pre-requisites to run locally:
 * npm
